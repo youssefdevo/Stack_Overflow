@@ -28,6 +28,7 @@ The StackOverflowDemo class demonstrates how to use the platform to:
   
 **Interfaces:**
 - Implementing Commentable and Votable for modular design
+
 **Data Structures:**
 - Managing users, questions, answers, and votes using collections
 
