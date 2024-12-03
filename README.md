@@ -17,10 +17,11 @@ The StackOverflowDemo class demonstrates how to use the platform to:
 
 - Create users
 - Ask questions
+- Answer questions
+- Accept answers
 - Add comments and tags
 - Vote on questions and answers
-- Concepts Demonstrated
-- Object-Oriented Programming (OOP):
+
 
 ## Concepts Demonstrated
 **Object-Oriented Programming(OOP):**
